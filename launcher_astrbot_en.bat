@@ -10,7 +10,7 @@ echo    AstrBot Launcher v0.1.3
 echo =========================
 echo.
 
-set PYTHON_CMD=python
+set PYTHON_CMD="C:\Users\Eridanus\AppData\Local\Programs\Python\Python313\python.exe"
 
 set MIRROR_URL=https://mirrors.aliyun.com/pypi/simple
 
